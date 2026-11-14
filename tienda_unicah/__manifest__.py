@@ -8,10 +8,8 @@
     "depends": ["sale_management"],
     "data": [
     "security/ir.access.csv",
-    "data/tienda_convenio_data.xml",
+    "views/prestamo_views.xml",
     "views/res_partner_views.xml",
-    "views/tienda_convenio_views.xml",
-    "views/sale_order_views.xml",
-    ],
+],
     "license": "LGPL-3",
 }

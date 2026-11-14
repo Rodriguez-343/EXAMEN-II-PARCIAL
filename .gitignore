@@ -1,7 +1,6 @@
-__pycache__/
+﻿__pycache__/
 *.pyc
+*.pyo
 .venv/
 .env
-odoo.conf
-
 *.log
