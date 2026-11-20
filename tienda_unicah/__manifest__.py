@@ -1,4 +1,4 @@
-﻿{
+{
     "name": "Tienda UNICAH",
     "version": "20.0.1.0.0",
     "summary": "Convenios de descuento para la tienda universitaria",
